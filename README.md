@@ -10,8 +10,15 @@ Possuo conhecimentos voltados para a área de dados, com experiência em SQL, Ex
 Busco uma oportunidade de estágio na área de TI, especialmente em dados, para aprimorar minhas habilidades, adquirir experiência prática e evoluir profissionalmente.
 
 ---
+<div> 
+  <a href="https://www.instagram.com/claudioangulo80/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "claudioangulo80@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/claudio-angulo-zurita/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
-### 🤖 Linguagens e Tecnologias
+<div>
+    <p> ### 🤖 Linguagens e Tecnologias</p>
 
 <img 
     align="left" 
@@ -101,3 +108,4 @@ Busco uma oportunidade de estágio na área de TI, especialmente em dados, para 
   />
 
 </p>
+</div>
